@@ -1,0 +1,170 @@
+.navbar{
+    display: flex;
+    background: #171d25;
+    position: fixed;
+    width: 100%;
+    height: 13%;
+    top: 0%;
+    right: 0%;
+    left: 0%;
+    overflow: hidden;
+    z-index: 100;
+    
+
+
+}
+.Me{
+    color:rgb(58, 194, 194);
+    font-size: 4em;
+    margin-left:2%;
+    
+}
+.uzi{
+    color:rgb(58, 194, 194);
+    font-size:2em;
+    left:30%;
+    margin-top:0%;
+    position:relative;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    height: fit-content;
+    text-underline-offset: .3em;
+   
+    
+}
+.fiz{
+    color:rgb(58, 194, 194);
+    font-size:2em;
+    left:30%;
+    margin-top:0%;
+    position:relative;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    height: fit-content;
+    text-underline-offset: .3em;
+    
+}
+.husk{
+    color:rgb(58, 194, 194);
+    font-size:2em;
+    left:30%;
+    margin-top:0%;
+    position:relative;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    height: fit-content;
+    text-underline-offset: .3em;
+    
+}
+.cat{
+    color: rgb(58, 194, 194);
+    font-size:2em;
+    left:30%;
+    margin-top:0%;
+    position:relative;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    height: fit-content;
+    text-underline-offset: .3em;
+}
+.uzi:hover{
+    color: #AACBD8;
+}
+.fiz:hover{
+    color: #AACBD8;
+}
+.husk:hover{
+    color: #AACBD8;
+}
+.cat:hover{
+    color: #AACBD8;
+}
+.ron{
+     border-radius: 80%;
+     height: 20em;
+     width: 17em;
+     margin-top:70%;
+     position: relative;
+     left: 25em;
+     border: .3em solid #376679;
+     box-shadow: 5px 5px 100px rgb(88, 88, 237);
+    
+
+     
+}
+.bg{
+    background-color: #AACBD8;
+}
+.abt{
+    color:rgb(58, 194, 194);
+    font-size:3em;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    height: fit-content;
+    background-color: #376679;
+    width: fit-content;
+    margin-top: 25vh;
+    margin-left: -30vw;
+    margin-right: auto;
+    float: left;
+    text-shadow: 2px 3px 3px black;
+   
+}
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
+.about_me{
+    color:#376679;
+    font-size: 2em;
+    margin-top: -40%;
+ 
+}
+.text{
+    height: 30em;
+    width: 40em;
+    margin-top: -15%;
+    margin-left: 5%
+}
+.skill{
+    color:rgb(58, 194, 194);
+    font-size:3em;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    height: fit-content;
+    background-color: #376679;
+    width: fit-content;
+    text-shadow:2px 3px 3px black;
+   
+}
+.yum{
+    margin-left:5%;
+}
+.yums{
+    margin-left: 5%;
+    font-size: 2em;
+    color: rgb(58, 194, 194);
+    text-shadow:2px 3px 3px black;
+}
+.pro{
+    color:rgb(58, 194, 194);
+    font-size:3em;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    height: fit-content;
+    background-color: #376679;
+    width: fit-content;
+
+    text-shadow: 2px 3px 3px black;
+}
+.hope{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.cart{
+    margin-left: 12%;
+}

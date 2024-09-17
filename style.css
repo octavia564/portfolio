@@ -141,12 +141,14 @@
 }
 .yum{
     margin-left:5%;
+  
 }
 .yums{
     margin-left: 5%;
     font-size: 2em;
     color: rgb(58, 194, 194);
     text-shadow:2px 3px 3px black;
+    text-align: center;
 }
 .pro{
     color:rgb(58, 194, 194);
@@ -167,4 +169,143 @@
 }
 .cart{
     margin-left: 12%;
+}
+
+.bart{
+    overflow: hidden;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #171d25;
+    width: 100%;
+   
+
+}
+.bar{
+    padding: 2%;
+    color: rgb(58, 194, 194);
+    font-size :3em;
+ 
+}
+
+.proj{
+    font-size: 2em;
+    margin-left: 65%;
+    margin-top: 40%;
+    
+}
+
+.img{
+    width: 50%;
+    margin-left: 49%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.row1{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.row2{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.row3{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.row4{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.row5{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.row6{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.row7{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.row8{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.row9{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.item1{
+    margin-right: auto;
+    margin-left: 4%;
+}
+.item2{
+    margin-right: auto;
+    margin-left: 4%;
+}
+.item3{
+    margin-right: auto;
+    margin-left: 4%;
+}
+.item4{
+    margin-right: auto;
+    margin-left: 4%;
+}
+.item5{
+    margin-right: auto;
+    margin-left: 4%;
+}
+.item6{
+    margin-right: auto;
+    margin-left: 4%;
+}
+.item7{
+    margin-right: auto;
+    margin-left: 4%;
+}
+.item8{
+    margin-right: auto;
+    margin-left: 4%;
+}
+.item9{
+    margin-right: auto;
+    margin-left: 4%;
+}
+.pro2{
+    margin-right: 11%;
+    margin-left: auto;
+}
+
+.ty{
+    margin-bottom: 20%;
+    padding: 5%;
+}
+.bingor{
+    height: 50%;
+    padding: 3%;
 }
